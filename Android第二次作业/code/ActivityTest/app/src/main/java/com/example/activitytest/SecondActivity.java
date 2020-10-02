@@ -21,6 +21,7 @@ public class SecondActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //Log.d("SecondActivity",this.toString());
         Log.d("SecondActivity", "Task id is " + getTaskId());
         setContentView(R.layout.second_layout);
         Button button2 = (Button) findViewById(R.id.button_2);
