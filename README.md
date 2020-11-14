@@ -1,5 +1,9 @@
 # 2018118111_Android
 ## 安卓课程的作业<br>
+
+## [安卓第0次作业文档（hello world）](https://github.com/LunarYoung/2018118111_Android/blob/master/Android%E7%AC%AC0%E6%AC%A1%E4%BD%9C%E4%B8%9A(hello%20world)/%E6%96%87%E6%A1%A3.md)
+## [安卓第0作业代码（hello world）](https://github.com/LunarYoung/2018118111_Android/tree/master/Android%E7%AC%AC0%E6%AC%A1%E4%BD%9C%E4%B8%9A(hello%20world)/code/HelloWorld)
+
 ## [安卓第1次作业文档（生命周期）](https://github.com/LunarYoung/2018118111_Android/blob/master/Android%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%89/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
 ## [安卓第1作业代码（生命周期）](https://github.com/LunarYoung/2018118111_Android/tree/master/Android%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%89/code)
 ## [安卓第2次作业文档（启动模式）](https://github.com/LunarYoung/2018118111_Android/blob/master/Android%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F%EF%BC%89/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
