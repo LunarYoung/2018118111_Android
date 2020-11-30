@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidThreadTest.iml" filepath="$PROJECT_DIR$/AndroidThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidThreadTest-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidThreadTest-app.iml" group="AndroidThreadTest/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chapter10-AndroidThreadTest.iml" filepath="$PROJECT_DIR$/.idea/modules/chapter10-AndroidThreadTest.iml" group="AndroidThreadTest" />
+    </modules>
+  </component>
+</project>
