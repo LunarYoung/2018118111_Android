@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/whole"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLabel"
+    android:orientation="vertical"
+    app:layoutDescription="@xml/activity_edit_scene">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/edit_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_border"
+            android:theme="@style/toolbar_theme"
+            android:minHeight="?attr/actionBarSize"
+            app:titleTextColor="#000000" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="13"
+            android:orientation="horizontal">
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="end">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:gravity="center_vertical"
+                android:text="分组："
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/currentFlag"
+                android:layout_width="84dp"
+                android:layout_height="match_parent"
+
+                android:layout_gravity="end"
+                android:layout_weight="2"
+                 />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edit_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left|center_horizontal"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_border"
+        android:gravity="center_vertical"
+        android:hint="标题"
+        android:textSize="30sp"
+         />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left|center_horizontal"
+        android:background="@drawable/bottom_border"
+        android:layout_marginTop="-10dp"
+        android:layout_margin="12dp"
+        android:layout_weight="30"
+        android:gravity="left"
+        android:hint="记事" />
+
+
+
+
+</LinearLayout>
